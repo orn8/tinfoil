@@ -1,4 +1,4 @@
-Add this to your Tinfoil to use oragne's Tinfoil service:
+Add this location to Tinfoil to use oragne's Tinfoil Service:
 
 ```
 Protocol: https
