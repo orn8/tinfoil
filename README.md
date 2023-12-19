@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">oragne shop</h1>
+  <h1 align="center"><strong>oragne shop</strong></h1>
   <h3>A Tinfoil shop forwarder hosted on GitHub.</h3>
 </div>
 
@@ -12,11 +12,24 @@
 
 </br>
 
-**oragne shop** is an All-in-one Tinfoil shop forwarder filled with the latest sources and games. Built with and for [Tinfoil](https://blawar.github.io/tinfoil/custom_index/).
+**oragne shop** is an All-in-one Tinfoil shop forwarder filled with the latest sources and games. Built with the [Tinfoil Documentation](https://blawar.github.io/tinfoil/custom_index/).
+
+---
+
+## Prerequisites
+
+* Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/sigpatch-updater) recommended).
+
+* Relies on [Tinfoil](https://tinfoil.io) (self-installer build recommended).
+
+* To avoid getting banned make sure you have already setup [Exosphere / DNS MITM](https://rentry.org/ExosphereDNSMITM).
+
+#### You (probably) have to set up GDrive OAuth if you cannot download [something] from Tinfoil.
+* Follow setup instructions: https://rentry.co/reDUMPSHOPOAUTH.
 
 ## Installation
 
-Add this location to Tinfoil's file browser to use oragne shop:
+Add this location to Tinfoil's file browser to use **oragne shop**:
 
 ```
 Protocol: https
@@ -32,7 +45,7 @@ Title: oragne shop
 - **[Echhi's Firmware Archives](https://e.cchi.me/firmware.tfl):** This shop contains all the Switch's firmware updates.
 
 ## Other Shops:
-> ### This is a list of other shops you can manually add that aren't in oragne shop.
+> ### This is a list of other shops you can manually add that aren't in **oragne shop**.
 
 </br>
 
@@ -55,7 +68,7 @@ Title: Kronos Zenten Shop
 Guilded: https://www.guilded.gg/i/kbG8GnPp
 ```
 
-## N/A Shops
+## N/A Shops:
 > ### This is a list of shops that are discontinued or unavailable.
 
 </br>
@@ -140,6 +153,24 @@ Title: A-Network Tinfoil Shop
 ```
 Website: https://pixelshop.lol
 ```
+
+## FAQ
+
+Q: Why aren't my shops loaded?
+
+> A: This usually occurs when the time of your Switch isn't synced to real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your Switch. Another circumstance might be that the shop you are trying to access is down currently.
+
+
+Q: I can't open Tinfoil.
+
+> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/sigpatch-updater) on your switch. If the issue still occurs, try booting with fusee.bin instead of Hekate and reinstall Tinfoil.
+
+
+Q: Network Error 7 occurs when I try to download [something].
+
+> A: This is usually due to a poor network connection. If you are using a LAN cable, try reinserting it.
+
+</br>
 
 ---
 
