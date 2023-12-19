@@ -103,7 +103,7 @@ Path: Rayzen-vip
 Title: Rayzen Shop
 ```
 
-* **TITS**
+* **TITS (outdated)**
 ```
 Protocol: https
 Host: titz.cf
