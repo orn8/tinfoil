@@ -176,7 +176,7 @@ Q: Network Error 7 occurs when I try to download [something].
 
 ## Contributing
 
-oragne-shop would like to get reminded of issues and new shops.
+**oragne-shop** would like to get reminded of issues and new shops.
 
 If you'd like to contribute, please report an issue, or fork the repo and create a PR.
 
