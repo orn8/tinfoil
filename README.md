@@ -61,9 +61,9 @@ Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
 
-* **POCODA Shop** (one time purchase at https://discord.gg/kkKmDNyZgc)
+* **POCODA Shop** (one time purchase)
 ```
-[unknown]
+Discord: https://discord.gg/kkKmDNyZgc
 ```
 
 * **RetroRom Shop (follow setup at https://retrorom.shop)**
