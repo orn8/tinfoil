@@ -41,7 +41,6 @@ Title: oragne shop
 ## Current Shops:
 
 - **[LiberaShop](https://liberashop.rs):** This shop has lots of games.
-- **[HBGShop](https://wpapp.cc):** This shop *will* have games. Set to release in December 2023.
 - **[Echhi's Firmware Archives](https://e.cchi.me/firmware.tfl):** This shop contains all the Switch's firmware updates.
 
 ## Other Shops:
@@ -62,6 +61,10 @@ Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
 
+* **POCODA Shop** (one time purchase at https://discord.gg/kkKmDNyZgc)
+```
+[unknown]
+```
 
 * **RetroRom Shop (follow setup at https://retrorom.shop)**
 ```
