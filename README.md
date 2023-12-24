@@ -6,7 +6,7 @@
 </br>
 
 <div align="center">
-  <a href="https://github.com/orn8/tinfoil/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/orn8/orn8.github.io?style=for-the-badge"></a>
+  <a href="https://github.com/orn8/tinfoil/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/orn8/tinfoil?style=for-the-badge"></a>
   <a href="https://github.com/orn8/tinfoil/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-EPLv2-purple?style=for-the-badge"></a>
 </div>
 
