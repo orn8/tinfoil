@@ -40,7 +40,7 @@ Title: oragne shop
 
 ## Current Shops:
 
-- **[LiberaShop](https://liberashop.rs):** This shop has lots of games.
+- **[LiberaShop](https://liberashop.rs):** This shop has lots games and software.
 - **[Echhi's Firmware Archives](https://e.cchi.me/firmware.tfl):** This shop contains all the Switch's firmware updates.
 
 ## Other Shops:
