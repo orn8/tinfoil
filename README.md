@@ -25,7 +25,7 @@
 * To avoid getting banned make sure you have already setup [Exosphere / DNS MITM](https://rentry.org/ExosphereDNSMITM).
 
 #### You (probably) have to set up GDrive OAuth if you cannot download [something] from Tinfoil.
-* Follow setup instructions: https://rentry.co/reDUMPSHOPOAUTH.
+* Click [here](https://rentry.co/reDUMPSHOPOAUTH) to follow setup instructions.
 
 ## Installation
 
