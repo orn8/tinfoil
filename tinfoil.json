@@ -1,7 +1,6 @@
 {
     "locations": [
-        {"url": "https://e.cchi.me", "title": "Ecchi Save Project", "action": "add"},
-        {"url": "https://e.cchi.me/firmware.tfl", "title": "Ecchi's Firmware Archives", "action": "add"},
-        {"url": "https://liberashop.rs", "title": "LiberaShop", "action": "add"}
+        {"url": "https://liberashop.rs", "title": "LiberaShop", "action": "add"},
+        {"url": "https://liberashop.rs/roms", "title": "LiberaShop Retro ROMs", "action": "add"}
     ]
 }

@@ -42,8 +42,6 @@ Title: oragne shop
 
 - **[LiberaShop](https://liberashop.rs):** This shop contains games and software.
 - **[LiberaShop Retro ROMs](https://librashop.rs/roms):** This shop contains retro games.
-- **[Echhi's Firmware Archives](https://e.cchi.me/firmware.tfl):** This shop contains Switch firmware updates.
-- **[Ecchi Save Project](https://e.cchi.me):** This shop contains game saves.
 
 ## Other Shops:
 > ### This is a list of other shops you can manually add that aren't in **oragne shop**.
