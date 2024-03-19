@@ -53,7 +53,7 @@ Title: oragne shop
 Guilded: https://www.guilded.gg/i/EAvO1Bz2
 ```
 
-* **Kronos Zenten Shop** (monthly paid license at https://discord.com/invite/kscctYj)
+* **Kronos Zenten Shop (monthly paid license at https://discord.com/invite/kscctYj)**
 ```
 Protocol: https
 Host: myrincon.es
@@ -61,7 +61,7 @@ Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
 
-* **POCODA Shop** (one time purchase)
+* **POCODA Shop (one time purchase)**
 ```
 Discord: https://discord.gg/kkKmDNyZgc
 ```
