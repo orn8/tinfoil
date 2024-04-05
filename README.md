@@ -24,8 +24,9 @@
 
 * To avoid getting banned make sure you have already setup [Exosphere / DNS MITM](https://rentry.org/ExosphereDNSMITM).
 
-#### You (probably) have to set up GDrive OAuth if you cannot download [something] from Tinfoil.
-* Click [here](https://rentry.co/reDUMPSHOPOAUTH) to follow setup instructions.
+> [!NOTE]
+> It is recommended to setup Google Drive OAuth to avoid receiving potential errors with Tinfoil shops.
+> * Click [here](https://rentry.co/reDUMPSHOPOAUTH) to follow setup instructions for Google Drive OAuth.
 
 ## Installation
 
@@ -43,15 +44,21 @@ Title: oragne shop
 - **[LiberaShop](https://liberashop.rs):** This shop contains games and software.
 - **[LiberaShop Retro ROMs](https://librashop.rs/roms):** This shop contains retro games.
 
+---
+
 ## Other Shops:
 > ### This is a list of other shops you can manually add that aren't in **oragne shop**.
 
 </br>
 
+### Free Shops:
+
 * **Biscuit Shop**
 ```
-Guilded: https://www.guilded.gg/i/EAvO1Bz2
+Discord: https://discord.com/invite/Jx6CdxppM7
 ```
+
+### Paid Shops:
 
 * **Kronos Zenten Shop (monthly paid license at https://discord.com/invite/kscctYj)**
 ```
@@ -66,52 +73,47 @@ Title: Kronos Zenten Shop
 Discord: https://discord.gg/kkKmDNyZgc
 ```
 
-* **RetroRom Shop (follow setup at https://retrorom.shop)**
-```
-Guilded: https://www.guilded.gg/i/kbG8GnPp
-```
-
 ## N/A Shops:
-> ### This is a list of shops that are discontinued or unavailable.
+> ### This is a backup of shops that are discontinued or unavailable.
 
 </br>
 
-* **Stealth Shop (down)**
+* **Stealth Shop**
 ```
 Protocol: https
 Host: stealthshop.cf
 Title: Stealth Shop
 ```
 
-* **Pengu Shop (outdated)**
+* **Pengu Shop**
 ```
 Protocol: https
 Host: pengu.us
 Title: Pengu Shop
 ```
 
-* **QuotaShop (developer stopped maintenance)**
+* **QuotaShop**
 ```
 Protocol: https
 Host: quotanx.in
 Title: QuotaShop
 ```
 
-* **ReDUMP Shop (can use but it needs to load for a long time)**
+* **ReDUMP Shop**
 ```
 Protocol: https
 Host: redump.cf
 Title: ReDUMP Shop
 ```
 
-* **Voxhost Tinfoil Server (can't use)**
+* **Voxhost Tinfoil Server**
 ```
 Protocol: https
 Host: tinfoilhost.voxhost.fr
 Title: Voxhost Tinfoil Server
 ```
 
-* **雷禪商店 Rayzen Shop (can't use)**
+* **雷禪商店 Rayzen Shop**
 ```
 Protocol: https
 Host: tiny.cc
@@ -119,14 +121,14 @@ Path: Rayzen-vip
 Title: Rayzen Shop
 ```
 
-* **TITS (outdated)**
+* **TITS**
 ```
 Protocol: https
 Host: titz.cf
 Title: TITS
 ```
 
-* **TITS 2 (outdated)**
+* **TITS 2**
 ```
 Protocol: https
 Host: tiny.cc
@@ -134,7 +136,7 @@ Path: turtleshop
 Title: TITS 2
 ```
 
-* **UnderPrivileged Shop (outdated, all downloads are 404)**
+* **UnderPrivileged Shop**
 ```
 Protocol: https
 Host: cdn.discordapp.com
@@ -142,7 +144,7 @@ Path: attachments/531350560549634069/902073525370765352/Under.tfl
 Title: UnderPrivileged Shop
 ```
 
-* **A-Network Tinfoil Shop (down)**
+* **A-Network Tinfoil Shop**
 ```
 Protocol: nut
 Host: a-network.ca
@@ -152,16 +154,27 @@ Password: reddit
 Title: A-Network Tinfoil Shop
 ```
 
-* **PixelShop (down, doesn't accept new members as of now)**
+* **PixelShop**
 ```
 Website: https://pixelshop.lol
+```
+
+* **RetroRom Shop**
+```
+Website: https://retrorom.shop
+Guilded: https://www.guilded.gg/i/kbG8GnPp
+```
+
+* **Teknik**
+```
+Discord: https://discord.com/invite/teknik
 ```
 
 ## FAQ
 
 Q: Why aren't my shops loaded?
 
-> A: This usually occurs when the time of your Switch isn't synced to real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your Switch. Another circumstance might be that the shop you are trying to access is down currently.
+> A: This usually occurs when the time of your Switch isn't synced to real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your Switch. Another situation might be that the shop you are trying to access is down currently.
 
 
 Q: I can't open Tinfoil.
