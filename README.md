@@ -3,14 +3,14 @@
   <h3>A Tinfoil shop forwarder hosted on GitHub.</h3>
 </div>
 
-</br>
+<br/>
 
 <div align="center">
   <a href="https://github.com/orn8/tinfoil/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/orn8/tinfoil?style=for-the-badge"></a>
   <a href="https://github.com/orn8/tinfoil/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-EPLv2-purple?style=for-the-badge"></a>
 </div>
 
-</br>
+<br/>
 
 **oragne shop** is an All-in-one Tinfoil shop forwarder filled with the latest sources and games. Built with the [Tinfoil Documentation](https://blawar.github.io/tinfoil/custom_index/).
 
@@ -49,7 +49,7 @@ Title: oragne shop
 ## Other Shops:
 > ### This is a list of other shops you can manually add that aren't in **oragne shop**.
 
-</br>
+<br/>
 
 ### Free Shops:
 
@@ -76,7 +76,7 @@ Discord: https://discord.gg/kkKmDNyZgc
 ## N/A Shops:
 > ### This is a backup of shops that are discontinued or unavailable.
 
-</br>
+<br/>
 
 * **Stealth Shop**
 ```
@@ -186,7 +186,7 @@ Q: Network Error 7 occurs when I try to download [something].
 
 > A: This is usually due to a poor network connection. If you are using a LAN cable, try reinserting it.
 
-</br>
+<br/>
 
 ---
 
@@ -202,9 +202,9 @@ If you'd like to contribute, please report an issue, or fork the repo and create
   <img src="https://contrib.rocks/image?repo=orn8/tinfoil" />
 </a>
 
-</br>
-</br>
-</br>
+<br/>
+<br/>
+<br/>
 
 <blockquote>
 <h3>Inspiration</h3>
