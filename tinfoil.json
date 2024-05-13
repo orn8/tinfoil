@@ -1,6 +1,5 @@
 {
     "locations": [
-        {"url": "https://liberashop.rs", "title": "LiberaShop", "action": "add"},
-        {"url": "https://liberashop.rs/roms", "title": "LiberaShop Retro ROMs", "action": "add"}
+        {"url": "https://liberashop.rs", "title": "LiberaShop", "action": "add"}
     ]
 }
