@@ -58,6 +58,8 @@ Title: oragne shop
 Discord: https://discord.com/invite/Jx6CdxppM7
 ```
 
+---
+
 ### Paid Shops:
 
 * **Kronos Zenten Shop (monthly paid license at https://discord.com/invite/kscctYj)**
