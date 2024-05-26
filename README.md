@@ -41,8 +41,8 @@ Title: oragne shop
 
 ## Current Shops:
 
-- **[LiberaShop](https://liberashop.rs):** This shop contains games and software.
-- **[LiberaShop Retro ROMs](https://librashop.rs/roms):** This shop contains retro games.
+- **LiberaShop:** This shop contains games and software.
+- **LiberaShop Retro ROMs:** This shop contains retro games.
 
 ---
 
