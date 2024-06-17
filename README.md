@@ -53,9 +53,9 @@ Title: oragne shop
 
 ### Free Shops:
 
-* **Biscuit Shop**
+* **Ghost eShop**
 ```
-Discord: https://discord.com/invite/Jx6CdxppM7
+Discord: https://discord.com/servers/ghost-eshop-633965704424718336
 ```
 
 <br/>
@@ -170,6 +170,11 @@ Guilded: https://www.guilded.gg/i/kbG8GnPp
 * **Teknik**
 ```
 Discord: https://discord.com/invite/teknik
+```
+
+* **Biscuit Shop**
+```
+Discord: https://discord.com/invite/Jx6CdxppM7
 ```
 
 ## FAQ
