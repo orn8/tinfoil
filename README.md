@@ -43,6 +43,7 @@ Title: oragne shop
 
 - **LiberaShop:** This shop contains games and software.
 - **LiberaShop Retro ROMs:** This shop contains retro games.
+- **Ghost eShop:** This shop contains games and software.
 
 ---
 
@@ -53,10 +54,7 @@ Title: oragne shop
 
 ### Free Shops:
 
-* **Ghost eShop**
-```
-Discord: https://discord.com/servers/ghost-eshop-633965704424718336
-```
+> No free shops are currently available as of right now.
 
 <br/>
 

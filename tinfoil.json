@@ -1,5 +1,6 @@
 {
     "locations": [
-        {"url": "https://liberashop.rs", "title": "LiberaShop", "action": "add"}
+        {"url": "https://liberashop.rs", "title": "LiberaShop", "action": "add"},
+        {"url": "https://nx.ghostland.at", "title": "Ghost eShop", "action": "add"}
     ]
 }
