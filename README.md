@@ -41,8 +41,6 @@ Title: oragne shop
 
 ## Current Shops:
 
-- **LiberaShop:** This shop contains games and software.
-- **LiberaShop Retro ROMs:** This shop contains retro games.
 - **Ghost eShop:** This shop contains games and software.
 
 ---
@@ -173,6 +171,13 @@ Discord: https://discord.com/invite/teknik
 * **Biscuit Shop**
 ```
 Discord: https://discord.com/invite/Jx6CdxppM7
+```
+
+* **LiberaShop**
+```
+Protocol: https
+Host: liberashop.rs
+Title: LiberaShop
 ```
 
 ## FAQ
