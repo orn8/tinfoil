@@ -18,7 +18,7 @@
 
 ## Prerequisites
 
-* Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/sigpatch-updater) recommended).
+* Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://sigmapatches.su/) recommended).
 
 * Relies on [Tinfoil](https://tinfoil.io) (self-installer build recommended).
 
