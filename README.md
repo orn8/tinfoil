@@ -52,7 +52,7 @@ Title: oragne shop
 
 ### Free Shops:
 
-> No free shops are currently available as of right now.
+> No external free shops are currently available as of right now.
 
 <br/>
 
