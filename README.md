@@ -58,17 +58,12 @@ Title: oragne shop
 
 ### Paid Shops:
 
-* **Kronos Zenten Shop (monthly paid license at https://discord.com/invite/kscctYj)**
+* **Kronos Zenten Shop (monthly paid license at [their Discord server](https://discord.com/invite/kscctYj))**
 ```
 Protocol: https
 Host: myrincon.es
 Path: net/Zenten
 Title: Kronos Zenten Shop
-```
-
-* **POCODA Shop (one time purchase)**
-```
-Discord: https://discord.gg/kkKmDNyZgc
 ```
 
 ## N/A Shops:
@@ -178,6 +173,11 @@ Discord: https://discord.com/invite/Jx6CdxppM7
 Protocol: https
 Host: liberashop.rs
 Title: LiberaShop
+```
+
+* **POCODA Shop**
+```
+Discord: https://discord.gg/kkKmDNyZgc
 ```
 
 ## FAQ
