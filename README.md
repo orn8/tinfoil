@@ -34,8 +34,8 @@ Add this location to Tinfoil's file browser to use **oragne shop**:
 
 ```
 Protocol: https
-Host: raw.githubusercontent.com
-Path: orn8/tinfoil/main/tinfoil.json
+Host: tinfoil.oragne.dev
+Path: tinfoil.json
 Title: oragne shop
 ```
 
