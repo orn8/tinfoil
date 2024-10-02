@@ -41,7 +41,26 @@ Title: oragne shop
 
 ## Current Shops:
 
-- **Ghost eShop:** This shop contains games and software.
+* **Ghost eShop:** This shop contains games and software.
+```
+Protocol: https
+Host: nx.ghostland.at
+Title: Ghost eShop PUBLIC
+```
+
+* **Ghost eShop RETRO:** This shop contains retro roms from old game consoles.
+```
+Protocol: https
+Host: nx-retro.ghostland.at
+Title: Ghost eShop RETRO
+```
+
+* **NX Shared Saves:** This database contains modified save files that are installable on many games.
+```
+Protocol: https
+Host: nx-saves.ghostland.at
+Title: NX Shared Saves
+```
 
 ---
 
