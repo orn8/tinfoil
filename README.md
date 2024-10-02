@@ -45,7 +45,7 @@ Title: oragne shop
 ```
 Protocol: https
 Host: nx.ghostland.at
-Title: Ghost eShop PUBLIC
+Title: Ghost eShop
 ```
 
 * **Ghost eShop RETRO:** This shop contains retro roms from old game consoles.
@@ -228,7 +228,7 @@ If you'd like to contribute, please report an issue, or fork the repo and create
 ### Our Contributors ✨
 
 <a href="https://github.com/orn8/tinfoil/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=orn8/tinfoil" />
+  <img src="https://contrib.rocks/image?repo=orn8/tinfoil"/>
 </a>
 
 <br/>
