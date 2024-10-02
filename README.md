@@ -239,4 +239,5 @@ If you'd like to contribute, please report an issue, or fork the repo and create
 <h3>Inspiration</h3>
 
 - [tinfoil-json](https://github.com/carcaschoi/tinfoil-json) - A GitHub repo storing the information of many Tinfoil shops.
+
 </blockquote>
