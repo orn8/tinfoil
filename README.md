@@ -38,6 +38,13 @@ Host: tinfoil.oragne.dev
 Path: tinfoil.json
 Title: oragne shop
 ```
+If the one above isn't functioning, try this one below:
+```
+Protocol: https
+Host: raw.githubusercontent.com
+Path: orn8/tinfoil/main/tinfoil.json
+Title: oragne shop
+```
 
 ## Current Shops:
 
