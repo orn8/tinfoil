@@ -55,6 +55,14 @@ Host: nx.ghostland.at
 Title: Ghost eShop
 ```
 
+* **UltraNX:** This shop contains games and software.
+```
+Protocol: https
+Host: tinfoil.ultranx.ru
+Path: tinfoil
+Title: UltraNX
+```
+
 * **Ghost eShop RETRO:** This shop contains retro roms from old game consoles.
 ```
 Protocol: https
