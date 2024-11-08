@@ -77,12 +77,6 @@ Path: tinfoil
 Title: UltraNX
 ```
 
-* **GratiSwitch**
-```
-Website: https://grat.pages.dev
-Guilded: https://www.guilded.gg/gratiswitch
-```
-
 ---
 
 ## Other Shops:
@@ -92,7 +86,11 @@ Guilded: https://www.guilded.gg/gratiswitch
 
 ### Free Shops:
 
-> No external free shops are currently available as of right now.
+* **GratiSwitch**
+```
+Website: https://grat.pages.dev
+Guilded: https://www.guilded.gg/gratiswitch
+```
 
 <br/>
 
