@@ -55,14 +55,6 @@ Host: nx.ghostland.at
 Title: Ghost eShop
 ```
 
-* **UltraNX:** This shop contains games and software.
-```
-Protocol: https
-Host: tinfoil.ultranx.ru
-Path: tinfoil
-Title: UltraNX
-```
-
 * **Ghost eShop RETRO:** This shop contains retro roms from old game consoles.
 ```
 Protocol: https
@@ -75,6 +67,20 @@ Title: Ghost eShop RETRO
 Protocol: https
 Host: nx-saves.ghostland.at
 Title: NX Shared Saves
+```
+
+* **UltraNX:** This shop contains games and software.
+```
+Protocol: https
+Host: tinfoil.ultranx.ru
+Path: tinfoil
+Title: UltraNX
+```
+
+* **GratiSwitch**
+```
+Website: https://grat.pages.dev
+Guilded: https://www.guilded.gg/gratiswitch
 ```
 
 ---
