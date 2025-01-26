@@ -86,11 +86,7 @@ Title: UltraNX
 
 ### Free Shops:
 
-* **GratiSwitch**
-```
-Website: https://grat.pages.dev
-Guilded: https://www.guilded.gg/gratiswitch
-```
+> No external free shops are currently available as of right now.
 
 <br/>
 
@@ -216,6 +212,12 @@ Title: LiberaShop
 * **POCODA Shop**
 ```
 Discord: https://discord.gg/kkKmDNyZgc
+```
+
+* **GratiSwitch**
+```
+Website: https://grat.pages.dev
+Guilded: https://www.guilded.gg/gratiswitch
 ```
 
 ## FAQ
