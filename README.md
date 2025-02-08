@@ -22,7 +22,7 @@
 
 * Relies on [Tinfoil](https://tinfoil.io) (self-installer build recommended).
 
-* To avoid getting banned make sure you have already setup [Exosphere / DNS MITM](https://rentry.org/ExosphereDNSMITM).
+* To avoid getting banned make sure you have already setup [Exosphere/DNS MITM](https://rentry.org/ExosphereDNSMITM).
 
 > [!NOTE]
 > It is recommended to setup Google Drive OAuth to avoid receiving potential errors with Tinfoil shops.
@@ -101,7 +101,7 @@ Title: Kronos Zenten Shop
 ```
 
 ## N/A Shops:
-> ### This is a backup of shops that are discontinued or unavailable.
+> ### This is a backup of shops that have been discontinued or are unavailable.
 
 <br/>
 
@@ -224,15 +224,15 @@ Guilded: https://www.guilded.gg/gratiswitch
 
 Q: Why aren't my shops loaded?
 
-> A: This usually occurs when the time of your Switch isn't synced to real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your Switch. Another situation might be that the shop you are trying to access is down currently.
+> A: This usually occurs when the time of your Switch isn't synced to real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your Switch. Another scenario might be that the shop you are trying to access is down currently.
 
 
 Q: I can't open Tinfoil.
 
-> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/sigpatch-updater) on your switch. If the issue still occurs, try booting with fusee.bin instead of Hekate and reinstall Tinfoil.
+> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/sigpatch-updater) on your switch. If the issue still occurs, try booting with `fusee.bin` instead of Hekate and reinstall Tinfoil.
 
 
-Q: Network Error 7 occurs when I try to download [something].
+Q: Network Error 7 occurs when I try to download something.
 
 > A: This is usually due to a poor network connection. If you are using a LAN cable, try reinserting it.
 
