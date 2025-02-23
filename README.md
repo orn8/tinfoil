@@ -14,6 +14,9 @@
 
 **oragne shop** is an All-in-one Tinfoil shop forwarder filled with the latest sources and games. Built with the [Tinfoil Documentation](https://blawar.github.io/tinfoil/custom_index/).
 
+> [!WARNING]
+> **oragne shop** acts solely as a forwarding service and is not responsible for the quality, safety, legality, or delivery of products from third-party shops.
+
 ---
 
 ## Prerequisites
