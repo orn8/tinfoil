@@ -27,7 +27,7 @@
 
 * To avoid getting banned make sure you have already setup [Exosphere/DNS MITM](https://rentry.org/ExosphereDNSMITM).
 
-> [!NOTE]
+> [!TIP]
 > It is recommended to setup Google Drive OAuth to avoid receiving potential errors with Tinfoil shops.
 > * Click [here](https://rentry.co/reDUMPSHOPOAUTH) to follow setup instructions for Google Drive OAuth.
 
@@ -227,12 +227,12 @@ Guilded: https://www.guilded.gg/gratiswitch
 
 Q: Why aren't my shops loaded?
 
-> A: This usually occurs when the time of your Switch isn't synced to real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your Switch. Another scenario might be that the shop you are trying to access is down currently.
+> A: This usually happens when your Switch isn't synced to real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your Switch. Either that, or the shop you're trying to access might be down.
 
 
 Q: I can't open Tinfoil.
 
-> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/sigpatch-updater) on your switch. If the issue still occurs, try booting with `fusee.bin` instead of Hekate and reinstall Tinfoil.
+> A: Make sure that you have the latest [Signature Patches](https://sigmapatches.su/) installed. If you still can't open Tinfoil, try booting with `fusee.bin` instead of Hekate and reinstall Tinfoil.
 
 
 Q: Network Error 7 occurs when I try to download something.
@@ -245,7 +245,7 @@ Q: Network Error 7 occurs when I try to download something.
 
 ## Contributing
 
-**oragne-shop** would like to get reminded of issues and new shops.
+**oragne-shop** would like to get natified of issues and new shops.
 
 If you'd like to contribute, please report an issue, or fork the repo and create a PR.
 
