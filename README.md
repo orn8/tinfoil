@@ -72,14 +72,6 @@ Host: nx-saves.ghostland.at
 Title: NX Shared Saves
 ```
 
-* **UltraNX:** This shop contains games and software.
-```
-Protocol: https
-Host: tinfoil.ultranx.ru
-Path: tinfoil
-Title: UltraNX
-```
-
 ---
 
 ## Other Shops:
@@ -221,6 +213,14 @@ Discord: https://discord.gg/kkKmDNyZgc
 ```
 Website: https://grat.pages.dev
 Guilded: https://www.guilded.gg/gratiswitch
+```
+
+* **UltraNX:** This shop contains games and software.
+```
+Protocol: https
+Host: tinfoil.ultranx.ru
+Path: tinfoil
+Title: UltraNX
 ```
 
 ## FAQ
