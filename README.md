@@ -51,6 +51,14 @@ Title: oragne shop
 
 ## Current Shops:
 
+* **UltraNX:** This shop contains games and software.
+```
+Protocol: https
+Host: tinfoil.ultranx.ru
+Path: tinfoil
+Title: UltraNX
+```
+
 * **Ghost eShop:** This shop contains games and software.
 ```
 Protocol: https
@@ -213,14 +221,6 @@ Discord: https://discord.gg/kkKmDNyZgc
 ```
 Website: https://grat.pages.dev
 Guilded: https://www.guilded.gg/gratiswitch
-```
-
-* **UltraNX:** This shop contains games and software.
-```
-Protocol: https
-Host: tinfoil.ultranx.ru
-Path: tinfoil
-Title: UltraNX
 ```
 
 ## FAQ
