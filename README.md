@@ -59,11 +59,26 @@ Path: tinfoil
 Title: UltraNX
 ```
 
+* **Egg Fried Rize Shop:** This shop contains games and software.
+```
+Protocol: https
+Host: cyrilz87.net
+Title: Egg Fried Rice Shop
+```
+
 * **Ghost eShop:** This shop contains games and software.
 ```
 Protocol: https
 Host: nx.ghostland.at
 Title: Ghost eShop
+```
+
+* **Ghost eShop Alt:** This shop contains games and software.
+```
+Protocol: https
+Host: ghost-land.github.io
+Path: public-shop/index.tfl
+Title: Ghost eShop Alt
 ```
 
 * **Ghost eShop RETRO:** This shop contains retro roms from old game consoles.
