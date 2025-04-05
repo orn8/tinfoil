@@ -59,7 +59,7 @@ Path: tinfoil
 Title: UltraNX
 ```
 
-* **Egg Fried Rize Shop:** This shop contains games and software.
+* **Egg Fried Rice Shop:** This shop contains games and software.
 ```
 Protocol: https
 Host: cyrilz87.net
