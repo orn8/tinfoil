@@ -70,15 +70,7 @@ Title: Egg Fried Rice Shop
 ```
 Protocol: https
 Host: nx.ghostland.at
-Title: Ghost eShop
-```
-
-* **Ghost eShop Alt:** This shop contains games and software.
-```
-Protocol: https
-Host: ghost-land.github.io
-Path: public-shop/index.tfl
-Title: Ghost eShop Alt
+Title: Ghost eShop PUBLIC
 ```
 
 * **Ghost eShop RETRO:** This shop contains retro roms from old game consoles.
