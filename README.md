@@ -66,20 +66,6 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-* **Ghost eShop:** This shop contains games and software.
-```
-Protocol: https
-Host: nx.ghostland.at
-Title: Ghost eShop PUBLIC
-```
-
-* **Ghost eShop RETRO:** This shop contains retro roms from old game consoles.
-```
-Protocol: https
-Host: nx-retro.ghostland.at
-Title: Ghost eShop RETRO
-```
-
 * **NX Shared Saves:** This database contains modified save files that are installable on many games.
 ```
 Protocol: https
@@ -228,6 +214,20 @@ Discord: https://discord.gg/kkKmDNyZgc
 ```
 Website: https://grat.pages.dev
 Guilded: https://www.guilded.gg/gratiswitch
+```
+
+* **Ghost eShop**
+```
+Protocol: https
+Host: nx.ghostland.at
+Title: Ghost eShop PUBLIC
+```
+
+* **Ghost eShop RETRO**
+```
+Protocol: https
+Host: nx-retro.ghostland.at
+Title: Ghost eShop RETRO
 ```
 
 ## FAQ
