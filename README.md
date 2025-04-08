@@ -66,6 +66,13 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
+* **Ghost eShop Retro NX:** This shop contains retro roms.
+```
+Protocol: https
+Host: nx-retro.ghostland.at
+Title: Ghost eShop Retro NX
+```
+
 * **NX Shared Saves:** This database contains modified save files that are installable on many games.
 ```
 Protocol: https
