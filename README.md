@@ -230,13 +230,6 @@ Host: nx.ghostland.at
 Title: Ghost eShop PUBLIC
 ```
 
-* **Ghost eShop RETRO**
-```
-Protocol: https
-Host: nx-retro.ghostland.at
-Title: Ghost eShop RETRO
-```
-
 ## FAQ
 
 Q: Why aren't my shops loaded?
