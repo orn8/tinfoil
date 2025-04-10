@@ -66,7 +66,7 @@ Host: cyrilz87.net
 Title: Egg Fried Rice Shop
 ```
 
-* **Ghost eShop Retro NX:** This shop contains retro roms.
+* **Ghost eShop Retro NX:** This shop contains retro roms. ([View wiki](https://wiki.ghosteshop.com/docs/nx/retro))
 ```
 Protocol: https
 Host: nx-retro.ghostland.at
@@ -101,6 +101,12 @@ Protocol: https
 Host: myrincon.es
 Path: net/Zenten
 Title: Kronos Zenten Shop
+```
+
+* **Ghost eShop PRO (exclusive to donors – access available after donation, sign-up required [here](pro.nlib.cc/register))**
+```
+Website: https://pro.nlib.cc
+Wiki: https://wiki.ghosteshop.com/docs/nx/pro
 ```
 
 ## N/A Shops:
@@ -223,18 +229,11 @@ Website: https://grat.pages.dev
 Guilded: https://www.guilded.gg/gratiswitch
 ```
 
-* **Ghost eShop**
+* **Ghost eShop** *(temporarily unavailable)*
 ```
 Protocol: https
 Host: nx.ghostland.at
 Title: Ghost eShop PUBLIC
-```
-
-* **Ghost eShop RETRO**
-```
-Protocol: https
-Host: nx-retro.ghostland.at
-Title: Ghost eShop RETRO
 ```
 
 ## FAQ
