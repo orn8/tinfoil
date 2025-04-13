@@ -103,7 +103,7 @@ Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
 
-* **Ghost eShop PRO (exclusive to donors – access available after donation, sign-up required [here](pro.nlib.cc/register))**
+* **Ghost eShop PRO (exclusive to donors – access available after donation, sign-up required [here](https://pro.nlib.cc/register))**
 ```
 Website: https://pro.nlib.cc
 Wiki: https://wiki.ghosteshop.com/docs/nx/pro
