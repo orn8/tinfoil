@@ -51,20 +51,8 @@ Title: oragne shop
 
 ## Current Shops:
 
-* **UltraNX:** This shop contains games and software.
-```
-Protocol: https
-Host: tinfoil.ultranx.ru
-Path: tinfoil
-Title: UltraNX
-```
-
-* **Egg Fried Rice Shop:** This shop contains games and software.
-```
-Protocol: https
-Host: cyrilz87.net
-Title: Egg Fried Rice Shop
-```
+> [!IMPORTANT]
+> There are currrently no available shops with Switch games and software in **oragne shop**
 
 * **Ghost eShop Retro NX:** This shop contains retro roms. ([View wiki](https://wiki.ghosteshop.com/docs/nx/retro))
 ```
@@ -227,6 +215,21 @@ Discord: https://discord.gg/kkKmDNyZgc
 ```
 Website: https://grat.pages.dev
 Guilded: https://www.guilded.gg/gratiswitch
+```
+
+* **UltraNX:** This shop contains games and software.
+```
+Protocol: https
+Host: tinfoil.ultranx.ru
+Path: tinfoil
+Title: UltraNX
+```
+
+* **Egg Fried Rice Shop:** This shop contains games and software.
+```
+Protocol: https
+Host: cyrilz87.net
+Title: Egg Fried Rice Shop
 ```
 
 * **Ghost eShop** *(temporarily unavailable)*
