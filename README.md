@@ -77,9 +77,10 @@ Title: NX Shared Saves
 
 ### Free Shops:
 
-* **notUltraNX (not on tinfoil - this shop is only installable on the Russian software [DBI](https://github.com/rashevskyv/dbi))**
+* **notUltraNX (not on tinfoil - this shop is only installable on the Russian software [DBI](https://github.com/rashevskyv/dbi), sign-up required [here](https://not.ultranx.ru/en/register))**
 ```
 Website: https://not.ultranx.ru/
+Guide: https://not.ultranx.ru/en/howto
 ```
 
 ### Paid Shops:
