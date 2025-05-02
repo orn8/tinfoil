@@ -29,7 +29,7 @@
 
 > [!TIP]
 > It is recommended to setup Google Drive OAuth to avoid receiving potential errors with Tinfoil shops.
-> * Click [here](https://rentry.co/reDUMPSHOPOAUTH) to follow setup instructions for Google Drive OAuth.
+> * Click [here](https://rentry.org/reDUMPSHOPOAUTH) to follow setup instructions for Google Drive OAuth.
 
 ## Installation
 
@@ -99,147 +99,113 @@ Website: https://pro.nlib.cc
 Wiki: https://wiki.ghosteshop.com/docs/nx/pro
 ```
 
-## N/A Shops:
-> ### This is a backup of shops that have been discontinued or are unavailable.
+<details>
+<summary><h2>N/A Shops:</h2></summary>
+
+<blockquote>
+<h3>This is a backup of shops that have been discontinued or are unavailable.</h3>
+</blockquote>
 
 <br/>
 
-* **Stealth Shop**
-```
-Protocol: https
+<ul><li><strong>Stealth Shop</strong></li></ul>
+<pre><code>Protocol: https
 Host: stealthshop.cf
-Title: Stealth Shop
-```
+Title: Stealth Shop</code></pre>
 
-* **Pengu Shop**
-```
-Protocol: https
+<ul><li><strong>Pengu Shop</strong></li></ul>
+<pre><code>Protocol: https
 Host: pengu.us
-Title: Pengu Shop
-```
+Title: Pengu Shop</code></pre>
 
-* **QuotaShop**
-```
-Protocol: https
+<ul><li><strong>QuotaShop</strong></li></ul>
+<pre><code>Protocol: https
 Host: quotanx.in
-Title: QuotaShop
-```
+Title: QuotaShop</code></pre>
 
-* **ReDUMP Shop**
-```
-Protocol: https
+<ul><li><strong>ReDUMP Shop</strong></li></ul>
+<pre><code>Protocol: https
 Host: redump.cf
-Title: ReDUMP Shop
-```
+Title: ReDUMP Shop</code></pre>
 
-* **Voxhost Tinfoil Server**
-```
-Protocol: https
+<ul><li><strong>Voxhost Tinfoil Server</strong></li></ul>
+<pre><code>Protocol: https
 Host: tinfoilhost.voxhost.fr
-Title: Voxhost Tinfoil Server
-```
+Title: Voxhost Tinfoil Server</code></pre>
 
-* **雷禪商店 Rayzen Shop**
-```
-Protocol: https
+<ul><li><strong>雷禪商店 Rayzen Shop</strong></li></ul>
+<pre><code>Protocol: https
 Host: tiny.cc
 Path: Rayzen-vip
-Title: Rayzen Shop
-```
+Title: Rayzen Shop</code></pre>
 
-* **TITS**
-```
-Protocol: https
+<ul><li><strong>TITS</strong></li></ul>
+<pre><code>Protocol: https
 Host: titz.cf
-Title: TITS
-```
+Title: TITS</code></pre>
 
-* **TITS 2**
-```
-Protocol: https
+<ul><li><strong>TITS 2</strong></li></ul>
+<pre><code>Protocol: https
 Host: tiny.cc
 Path: turtleshop
-Title: TITS 2
-```
+Title: TITS 2</code></pre>
 
-* **UnderPrivileged Shop**
-```
-Protocol: https
+<ul><li><strong>UnderPrivileged Shop</strong></li></ul>
+<pre><code>Protocol: https
 Host: cdn.discordapp.com
 Path: attachments/531350560549634069/902073525370765352/Under.tfl
-Title: UnderPrivileged Shop
-```
+Title: UnderPrivileged Shop</code></pre>
 
-* **A-Network Tinfoil Shop**
-```
-Protocol: nut
+<ul><li><strong>A-Network Tinfoil Shop</strong></li></ul>
+<pre><code>Protocol: nut
 Host: a-network.ca
 Port: 9000
 Username: reddit
 Password: reddit
-Title: A-Network Tinfoil Shop
-```
+Title: A-Network Tinfoil Shop</code></pre>
 
-* **PixelShop**
-```
-Website: https://pixelshop.lol
-```
+<ul><li><strong>PixelShop</strong></li></ul>
+<pre><code>Website: https://pixelshop.lol</code></pre>
 
-* **RetroRom Shop**
-```
-Website: https://retrorom.shop
-Guilded: https://www.guilded.gg/i/kbG8GnPp
-```
+<ul><li><strong>RetroRom Shop</strong></li></ul>
+<pre><code>Website: https://retrorom.shop
+Guilded: https://www.guilded.gg/i/kbG8GnPp</code></pre>
 
-* **Teknik**
-```
-Discord: https://discord.com/invite/teknik
-```
+<ul><li><strong>Teknik</strong></li></ul>
+<pre><code>Discord: https://discord.com/invite/teknik</code></pre>
 
-* **Biscuit Shop**
-```
-Discord: https://discord.com/invite/Jx6CdxppM7
-```
+<ul><li><strong>Biscuit Shop</strong></li></ul>
+<pre><code>Discord: https://discord.com/invite/Jx6CdxppM7</code></pre>
 
-* **LiberaShop**
-```
-Protocol: https
+<ul><li><strong>LiberaShop</strong></li></ul>
+<pre><code>Protocol: https
 Host: liberashop.rs
-Title: LiberaShop
-```
+Title: LiberaShop</code></pre>
 
-* **POCODA Shop**
-```
-Discord: https://discord.gg/kkKmDNyZgc
-```
+<ul><li><strong>POCODA Shop</strong></li></ul>
+<pre><code>Discord: https://discord.gg/kkKmDNyZgc</code></pre>
 
-* **GratiSwitch**
-```
-Website: https://grat.pages.dev
-Guilded: https://www.guilded.gg/gratiswitch
-```
+<ul><li><strong>GratiSwitch</strong></li></ul>
+<pre><code>Website: https://grat.pages.dev
+Guilded: https://www.guilded.gg/gratiswitch</code></pre>
 
-* **UltraNX:** This shop contains games and software.
-```
-Protocol: https
+<ul><li><strong>UltraNX:</strong> This shop contains games and software.</li></ul>
+<pre><code>Protocol: https
 Host: tinfoil.ultranx.ru
 Path: tinfoil
-Title: UltraNX
-```
+Title: UltraNX</code></pre>
 
-* **Egg Fried Rice Shop:** This shop contains games and software.
-```
-Protocol: https
+<ul><li><strong>Egg Fried Rice Shop:</strong> This shop contains games and software.</li></ul>
+<pre><code>Protocol: https
 Host: cyrilz87.net
-Title: Egg Fried Rice Shop
-```
+Title: Egg Fried Rice Shop</code></pre>
 
-* **Ghost eShop** *(temporarily unavailable)*
-```
-Protocol: https
+<ul><li><strong>Ghost eShop</strong> <em>(temporarily unavailable)</em></li></ul>
+<pre><code>Protocol: https
 Host: nx.ghostland.at
-Title: Ghost eShop PUBLIC
-```
+Title: Ghost eShop PUBLIC</code></pre>
+
+</details>
 
 ## FAQ
 
@@ -449,6 +415,6 @@ If you'd like to contribute, please report an issue, or fork the repo and create
 <blockquote>
 <h3>Also check out:</h3>
 
-- <a href="https://github.com/carcaschoi/tinfoil-json">tinfoil-json</a> - The inspiration for this project
-- <a href="https://github.com/melogabriel/tinfoil-shops">tinfoil-shops</a> - Another Tinfoil shop library
+- <a href="https://github.com/carcaschoi/tinfoil-json">carcaschoi/tinfoil-json</a> - The inspiration for this project.
+- <a href="https://github.com/melogabriel/tinfoil-shops">melogabriel/tinfoil-shops</a> - A unique take on the GitHub repositories by carcaschoi and me.
 </blockquote>
