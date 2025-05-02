@@ -353,7 +353,7 @@ Title: Ghost eShop PUBLIC
     <p>Some dumps include custom tags—this is safe.</p>
     <ul>
       <li>Enable <strong>"Unsigned Signature"</strong> in settings.</li>
-      <li>Use the following code: <code>Up Upp Down Down Left Right Left Right B A +</code></li>
+      <li>Use the following code: <code>Up Up Down Down Left Right Left Right B A +</code></li>
     </ul>
   </blockquote>
 </details>
