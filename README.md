@@ -243,19 +243,162 @@ Title: Ghost eShop PUBLIC
 
 ## FAQ
 
-Q: Why aren't my shops loaded?
+<details>
+  <summary><strong>❌ "Unknown Frame descriptor" when opening Tinfoil</strong></summary>
+  <p>This means your Tinfoil installation is corrupted.</p>
+  <ul>
+    <li>Delete the Tinfoil forwarder on your main screen.</li>
+    <li>Remove the folder: <code>SD:/switch/tinfoil</code></li>
+    <li>Open <strong>DBI → TOOLS</strong> and clean up orphaned files.</li>
+    <li>Reinstall Tinfoil.</li>
+  </ul>
+</details>
 
-> A: This usually happens when your Switch isn't synced to real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your Switch. Either that, or the shop you're trying to access might be down.
+<details>
+  <summary><strong>🌀 Game icon is blank with spinning circle</strong></summary>
+  <p>You're likely on the wrong firmware version.</p>
+  <ul>
+    <li>Update your Switch to the required firmware version.</li>
+  </ul>
+</details>
 
+<details>
+  <summary><strong>🎮 Retro Shop game won’t start</strong></summary>
+  <p>This can happen for several reasons:</p>
+  <ul>
+    <li>Your firmware is too new for the forwarders used.</li>
+    <li>Retroarch is not installed.</li>
+    <li>A required Retroarch core is missing.</li>
+  </ul>
+  <p><strong>Fixes:</strong></p>
+  <ul>
+    <li>Downgrade one firmware version (if using emuMMC) or import the ROM directly into Retroarch.</li>
+    <li>Install Retroarch via the Homebrew Store.</li>
+    <li>Open Retroarch and download the needed core.</li>
+  </ul>
+</details>
 
-Q: I can't open Tinfoil.
+<details>
+  <summary><strong>🌐 Tinfoil shows "Network Error 28"</strong></summary>
+  <p><strong>Possible Causes:</strong></p>
+  <ul>
+    <li>WiFi disabled.</li>
+    <li>Incorrect source configuration.</li>
+    <li>Shop server is down.</li>
+    <li>Slow internet connection.</li>
+  </ul>
+  <p><strong>Fixes:</strong></p>
+  <ul>
+    <li>Enable WiFi.</li>
+    <li>Check your credentials and source settings.</li>
+    <li>Wait for the shop to come back online.</li>
+    <li>Try again later.</li>
+  </ul>
+</details>
 
-> A: Make sure that you have the latest [Signature Patches](https://sigmapatches.su/) installed. If you still can't open Tinfoil, try booting with `fusee.bin` instead of Hekate and reinstall Tinfoil.
+<details>
+  <summary><strong>🌐 Tinfoil shows "Network Error 7"</strong></summary>
+  <p>Your ISP is blocking access to the shop.</p>
+  <ul>
+    <li>Use a VPN for your modem or router.</li>
+  </ul>
+</details>
 
+<details>
+  <summary><strong>📅 Can’t sort by release date in Tinfoil</strong></summary>
+  <p>Your database may be corrupted.</p>
+  <ul>
+    <li>Delete the <strong>DB</strong> folder inside Tinfoil.</li>
+    <li>Restart the app.</li>
+  </ul>
+</details>
 
-Q: Network Error 7 occurs when I try to download something.
+<details>
+  <summary><strong>🔍 Can’t find a specific game</strong></summary>
+  <p><strong>Tip:</strong></p>
+  <ul>
+    <li>Highlight <strong>"New Games"</strong> or <strong>"XCI"</strong> and press the <strong>"+"</strong> button.</li>
+    <li>Use short keywords (e.g., <em>Mario</em>, <em>Zelda</em>, <em>Pokemon</em>).</li>
+  </ul>
+</details>
 
-> A: This is usually due to a poor network connection. If you are using a LAN cable, try reinserting it.
+<details>
+  <summary><strong>🈶 Game can’t be found by name</strong></summary>
+  <p>It may have an Asian title.</p>
+  <ul>
+    <li>Go to <strong>"New Games/XCI"</strong>.</li>
+    <li>Press <strong>"-"</strong> to search by icon instead.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🚫 "Unsigned Code/Signature" error in Tinfoil</strong></summary>
+  <p>Some dumps include custom tags—this is safe.</p>
+  <ul>
+    <li>Enable <strong>"Unsigned Signature"</strong> in settings.</li>
+    <li>Use the following code: <code>Up Upp Down Down Left Right Left Right B A +</code></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🕹️ Retro ROM shows "Unable to start software"</strong></summary>
+  <ul>
+    <li>Update your Switch to the required firmware version.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🌍 ISP is blocking the shop</strong></summary>
+  <p><strong>Fixes:</strong></p>
+  <ul>
+    <li>Change DNS settings on your Switch:</li>
+    <ul>
+      <li>Primary: <code>1.1.1.1</code></li>
+      <li>Secondary: <code>8.8.8.8</code></li>
+    </ul>
+    <li>Or use a VPN.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🌐 Tinfoil shows "Network Error 6"</strong></summary>
+  <p><strong>Possible Causes:</strong></p>
+  <ul>
+    <li>Incorrect shop config.</li>
+    <li>WiFi is off or not configured.</li>
+    <li>DNS settings are wrong.</li>
+  </ul>
+  <p><strong>Fixes:</strong></p>
+  <ul>
+    <li>Compare your config with the correct settings.</li>
+    <li>Turn WiFi on.</li>
+    <li>Set DNS to <strong>Auto</strong>.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🔐 Tinfoil shows "Network Error 35 (SSL Handshake)"</strong></summary>
+  <p>Your system clock is out of sync.</p>
+  <ul>
+    <li>Install the Homebrew app <strong>DBI</strong>.</li>
+    <li>Use <strong>Tools → Sync Clock via NTP</strong>.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>💾 “Corrupted Data” error in Tinfoil</strong></summary>
+  <p><strong>Causes:</strong></p>
+  <ul>
+    <li>Damaged sectors on your SD card.</li>
+    <li>Corrupted Tinfoil installation.</li>
+  </ul>
+  <p><strong>Fixes:</strong></p>
+  <ul>
+    <li>Delete Tinfoil and the <code>SD:/switch/tinfoil</code> folder.</li>
+    <li>Reinstall Tinfoil.</li>
+    <li>In Hekate: <strong>Console Info → microSD</strong> to check for SD card issues.</li>
+  </ul>
+</details>
 
 <br/>
 
