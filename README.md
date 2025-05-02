@@ -278,7 +278,8 @@ If you'd like to contribute, please report an issue, or fork the repo and create
 <br/>
 
 <blockquote>
-<h3>Inspiration</h3>
+<h3>Also check out:</h3>
 
-- <a href="https://github.com/carcaschoi/tinfoil-json">tinfoil-json</a> - A GitHub repo storing the information of many Tinfoil shops.
+- <a href="https://github.com/carcaschoi/tinfoil-json">tinfoil-json</a> - The inspiration for this project
+- <a href="https://github.com/melogabriel/tinfoil-shops">tinfoil-shops</a> - Another Tinfoil shop library
 </blockquote>
