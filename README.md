@@ -428,8 +428,6 @@ Title: Ghost eShop PUBLIC
   </blockquote>
 </details>
 
-<br/>
-
 ---
 
 ## Contributing
