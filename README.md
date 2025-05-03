@@ -73,7 +73,7 @@ Title: NX Shared Saves
 ---
 
 ## Other Shops:
-> ### This is a list of other shops you can manually add that aren't in **oragne shop**.
+> ### This is a list of shops you can manually add that aren't in **oragne shop**.
 
 <br/>
 
