@@ -51,10 +51,8 @@ Title: oragne shop
 
 ## Current Shops:
 
-* **Ghost eShop PRO (for free! thanks [@TheExpertNoob](https://github.com/TheExpertNoob)):** This shop contains Switch games and software.
-```
-Source: https://github.com/orn8/tinfoil/pull/86
-```
+> [!IMPORTANT]
+> There are currrently no available shops with Switch games and software in **oragne shop**
 
 * **Ghost eShop Retro NX:** This shop contains retro roms. ([View wiki](https://wiki.ghosteshop.com/docs/nx/retro))
 ```
