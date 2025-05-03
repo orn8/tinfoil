@@ -419,4 +419,5 @@ If you'd like to contribute, please report an issue, or fork the repo and create
 
 - <a href="https://github.com/carcaschoi/tinfoil-json">carcaschoi/tinfoil-json</a> - The inspiration for this project.
 - <a href="https://github.com/melogabriel/tinfoil-shops">melogabriel/tinfoil-shops</a> - A unique take on the GitHub repositories by carcaschoi and me.
+- <a href="https://wiki.ghosteshop.com/docs/category/nx--nintendo-switch">Ghost eShop Wiki</a> - Contains a lot of information, from how to operate Ghost eShop, to their very useful troubleshooting pages.
 </blockquote>
