@@ -87,11 +87,11 @@ Website: https://not.ultranx.ru/
 Guide: https://not.ultranx.ru/en/howto
 ```
 
-* **Gandalf Sax:** Gives a hacked version of Ghost eShop PRO for free. This violates the Ghost eShop service framework.
+* **Gandalf Sax!:** Gives a hacked version of Ghost eShop PRO for free. This violates the Ghost eShop service framework.
 ```
 Protocol: https
 Host: gandalfsax.com
-Title: Gandalf Sax
+Title: Gandalf Sax!
 ```
 
 ### Paid Shops:
