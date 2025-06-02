@@ -16,5 +16,5 @@
             "action": "add"
         }
     ],
-    "success": "Thanks for choosing oragne shop! Your everlasting support is what helps us grow.\noragne shop acts solely as a forwarding service and does not host any content itself.\n\nCURRENT SHOPS INCLUDED:\n\nWorld-Digital (https://free.worldigital-brasil.com): This shop contains Switch games and software. Games above 5GB require paid VIP access.\nGhost eShop Retro NX (https://nx-retro.ghostland.at): This shop contains retro roms.\nNX Shared Saves (https://nx-saves.ghostland.at): This database contains modified save files that are installable on many games.\n\nWanna support the project? Star the repo on GitHub: https://github.com/orn8/tinfoil"
+    "success": "oragne shop acts solely as a shop forwarder and does not host any content itself.\n\nCURRENT SHOPS INCLUDED:\n\nWorld-Digital (https://free.worldigital-brasil.com): This shop contains Switch games and software. Games above 5GB require paid VIP access.\n\nGhost eShop Retro NX (https://nx-retro.ghostland.at): This shop contains retro roms.\n\nNX Shared Saves (https://nx-saves.ghostland.at): This database contains modified save files that are installable on many games.\n\nLearn more: https://github.com/orn8/tinfoil"
 }
