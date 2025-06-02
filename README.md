@@ -51,8 +51,12 @@ Title: oragne shop
 
 ## Current Shops:
 
-> [!IMPORTANT]
-> There are currrently no available shops with Switch games and software in **oragne shop**
+* **World-Digital:** This shop contains Switch games and software. Games above 5GB require paid VIP access.
+```
+Protocol: https
+Host: free.worldigital-brasil.com
+Title: World-Digital
+```
 
 * **Ghost eShop Retro NX:** This shop contains retro roms. ([View wiki](https://wiki.ghosteshop.com/docs/nx/retro))
 ```
@@ -77,15 +81,22 @@ Title: NX Shared Saves
 
 ### Free Shops:
 
-* **notUltraNX (not on tinfoil - this shop is only installable on the Russian software [DBI](https://github.com/rashevskyv/dbi), sign-up required [here](https://not.ultranx.ru/en/register))**
+* **notUltraNX:** Not on Tinfoil, this shop is only installable on the Russian software [DBI](https://github.com/rashevskyv/dbi). Registration required [here](https://not.ultranx.ru/en/register).
 ```
 Website: https://not.ultranx.ru/
 Guide: https://not.ultranx.ru/en/howto
 ```
 
+* **Gandalf Sax:** Gives a hacked version of Ghost eShop PRO for free. This violates the Ghost eShop service framework.
+```
+Protocol: https
+Host: gandalfsax.com
+Title: Gandalf Sax
+```
+
 ### Paid Shops:
 
-* **Kronos Zenten Shop (monthly paid license at [their Discord server](https://discord.com/invite/kscctYj))**
+* **Kronos Zenten Shop:** Monthly paid license at [their Discord server](https://discord.com/invite/kscctYj).
 ```
 Protocol: https
 Host: myrincon.es
@@ -93,7 +104,7 @@ Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
 
-* **Ghost eShop PRO (exclusive to donors - access available after donation, sign-up required [here](https://pro.nlib.cc/register))**
+* **Ghost eShop PRO:** Exclusive to donors, access available after donation. Registration required [here](https://pro.nlib.cc/register).
 ```
 Website: https://pro.nlib.cc
 Wiki: https://wiki.ghosteshop.com/docs/nx/pro

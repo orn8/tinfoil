@@ -1,6 +1,20 @@
 {
     "locations": [
-        {"url": "https://nx-retro.ghostland.at", "title": "Ghost eShop Retro NX", "action": "add"},
-        {"url": "https://nx-saves.ghostland.at", "title": "NX Shared Saves", "action": "add"}
-    ]
+        {
+            "url": "https://free.worldigital-brasil.com",
+            "title": "World-Digital",
+            "action": "add"
+        },
+        {
+            "url": "https://nx-retro.ghostland.at",
+            "title": "Ghost eShop Retro NX",
+            "action": "add"
+        },
+        {
+            "url": "https://nx-saves.ghostland.at",
+            "title": "NX Shared Saves",
+            "action": "add"
+        }
+    ],
+    "success": "Thanks for choosing oragne shop! Your everlasting support is what helps us grow.\n\nCURRENT SHOPS INCLUDED:\n\nWorld-Digital (https://free.worldigital-brasil.com): This shop contains Switch games and software. Games above 5GB require paid VIP access.\nGhost eShop Retro NX (https://nx-retro.ghostland.at): This shop contains retro roms.\nNX Shared Saves (https://nx-saves.ghostland.at): This database contains modified save files that are installable on many games.\n\nWanna support the project? Star the repo on GitHub: https://github.com/orn8/tinfoil"
 }
