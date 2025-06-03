@@ -16,5 +16,5 @@
             "action": "add"
         }
     ],
-    "success": "oragne shop acts solely as a shop forwarder and does not host any content itself.\n\nCHANGELOG:\n\n- Added \"World-Digital\" shop\n- Added this success message\n- Added \"Gandalf Sax!\" shop to the GitHub README\n\nLearn more: https://github.com/orn8/tinfoil"
+    "success": "oragne shop acts solely as a forwarding service and is not responsible for the quality, safety, legality, or delivery of products from third-party shops.\n\nCHANGELOG:\n\n- Added \"World-Digital\"\n- Added this success message\n- Added \"Gandalf Sax!\" to the GitHub freeshops list\n\nMore shops available at: https://github.com/orn8/tinfoil#other-shops"
 }
