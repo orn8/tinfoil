@@ -200,13 +200,13 @@ Title: LiberaShop</code></pre>
 <pre><code>Website: https://grat.pages.dev
 Guilded: https://www.guilded.gg/gratiswitch</code></pre>
 
-<ul><li><strong>UltraNX:</strong> This shop contains games and software.</li></ul>
+<ul><li><strong>UltraNX</strong></li></ul>
 <pre><code>Protocol: https
 Host: tinfoil.ultranx.ru
 Path: tinfoil
 Title: UltraNX</code></pre>
 
-<ul><li><strong>Egg Fried Rice Shop:</strong> This shop contains games and software.</li></ul>
+<ul><li><strong>Egg Fried Rice Shop</strong></li></ul>
 <pre><code>Protocol: https
 Host: cyrilz87.net
 Title: Egg Fried Rice Shop</code></pre>
@@ -428,5 +428,5 @@ If you'd like to contribute, please report an issue, or fork the repo and create
 
 - <a href="https://github.com/carcaschoi/tinfoil-json">carcaschoi/tinfoil-json</a> - The inspiration for this project.
 - <a href="https://github.com/melogabriel/tinfoil-shops">melogabriel/tinfoil-shops</a> - A unique take on the GitHub repositories by carcaschoi and me.
-- <a href="https://wiki.ghosteshop.com/docs/category/nx--nintendo-switch">Ghost eShop Wiki</a> - Contains a lot of information, from how to operate Ghost eShop, to their very useful troubleshooting pages.
+- <a href="https://wiki.ghosteshop.com/docs/category/nx--nintendo-switch">Ghost eShop Wiki</a> - Contains a lot of helpful info, from how to operate Ghost eShop, to their very useful troubleshooting pages.
 </blockquote>
