@@ -51,11 +51,11 @@ Title: oragne shop
 
 ## Current Shops:
 
-* **Ghost eShop *NX Public*:** This shop contains official switch content (base, dlcs and updates) *[without limit for the moment]*
+* **Ghost eShop PUBLIC:** This shop contains official Switch content (Base, DLCs and Updates).
 ```
 Protocol: https
 Host: nx.ghostland.at
-Title: Ghost eShop NX Public
+Title: Ghost eShop PUBLIC
 ```
 
 * **World-Digital:** This shop contains Switch games and software. Games above 5GB require paid VIP access.
@@ -72,7 +72,7 @@ Host: nx-retro.ghostland.at
 Title: Ghost eShop Retro NX
 ```
 
-* **NX Shared Saves:** This database contains modified save files that are installable on many games.
+* **NX Shared Saves:** This database contains modified save files that are installable on a variety of games.
 ```
 Protocol: https
 Host: nx-saves.ghostland.at
