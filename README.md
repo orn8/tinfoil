@@ -51,6 +51,13 @@ Title: oragne shop
 
 ## Current Shops:
 
+* **Ghost eShop *NX Public*:** This shop contains official switch content (base, dlcs and updates) *[without limit for the moment]*
+```
+Protocol: https
+Host: nx.ghostland.at
+Title: Ghost eShop NX Public
+```
+
 * **World-Digital:** This shop contains Switch games and software. Games above 5GB require paid VIP access.
 ```
 Protocol: https
@@ -210,11 +217,6 @@ Title: UltraNX</code></pre>
 <pre><code>Protocol: https
 Host: cyrilz87.net
 Title: Egg Fried Rice Shop</code></pre>
-
-<ul><li><strong>Ghost eShop</strong> <em>(temporarily unavailable)</em></li></ul>
-<pre><code>Protocol: https
-Host: nx.ghostland.at
-Title: Ghost eShop PUBLIC</code></pre>
 
 </details>
 
