@@ -21,11 +21,11 @@
 
 ## Prerequisites
 
-* Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://sigmapatches.su/) recommended).
+* Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/) recommended).
 
 * Relies on [Tinfoil](https://tinfoil.io) (self-installer build recommended).
 
-* To avoid getting banned make sure you have already setup [Exosphere/DNS MITM](https://rentry.org/ExosphereDNSMITM).
+* To avoid getting banned, make sure you have already setup [Exosphere/DNS MITM](https://rentry.org/ExosphereDNSMITM).
 
 > [!TIP]
 > It is recommended to setup Google Drive OAuth to avoid receiving potential errors with Tinfoil shops.
@@ -411,7 +411,7 @@ Title: Egg Fried Rice Shop</code></pre>
 
 ## Contributing
 
-**oragne-shop** would like to get notified of issues and new shops.
+**oragne shop** would like to get notified of issues and new shops.
 
 If you'd like to contribute, please report an issue, or fork the repo and create a PR.
 
